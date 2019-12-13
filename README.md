@@ -15,3 +15,4 @@ This repo contains Iteam's employees' repositories for Advent Of Code.
 | Person                                   | Language | Repository                                                          |
 | ---------------------------------------- | -------- | ------------------------------------------------------------------- |
 | [@believer](https://github.com/believer) | ReasonML | [Link](https://github.com/believer/advent-of-code/tree/master/2018) |
+| [@ankjevel](https://github.com/ankjevel) | Rust     | [Link](https://github.com/ankjevel/adventofcode/tree/2018)          |
