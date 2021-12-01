@@ -7,6 +7,7 @@ This repo contains Iteam's employees' repositories for Advent Of Code.
 | ------------------------------------------------ | -------- | ------------------------------------------------------------------- |
 | [@Graborg](https://github.com/Graborg)           | Elixir   | [Link](https://github.com/Graborg/advent-of-code-2021)              |
 | [@momentiris](https://github.com/momentiris)     | ReScript | [Link](https://github.com/momentiris/advent-of-code-2021)           |
+| [@ErikHellman](https://github.com/ErikHellman)   | Kotlin   | [Link](https://github.com/ErikHellman/advent-of-code-2021)          |
 
 ## 2019
 
