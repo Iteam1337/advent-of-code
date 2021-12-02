@@ -9,6 +9,7 @@ This repo contains Iteam's employees' repositories for Advent Of Code.
 | [@momentiris](https://github.com/momentiris)     | ReScript | [Link](https://github.com/momentiris/advent-of-code-2021)           |
 | [@ErikHellman](https://github.com/ErikHellman)   | Kotlin   | [Link](https://github.com/ErikHellman/advent-of-code-2021)          |
 | [@madr](https://github.com/madr)                 | Python   | [Link](https://github.com/madr/julkalendern/pull/3)                 |
+| [@irony](https://github.com/irony)               | Js/RxJs  | [Link](https://github.com/irony/advent-of-code/tree/main/2021)      |
 
 ## 2019
 
